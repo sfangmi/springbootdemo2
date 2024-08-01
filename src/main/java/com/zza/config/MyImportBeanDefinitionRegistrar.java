@@ -1,4 +1,4 @@
-package com.zza.conifg;
+package com.zza.config;
 
 import org.springframework.beans.factory.support.AbstractBeanDefinition;
 import org.springframework.beans.factory.support.BeanDefinitionBuilder;

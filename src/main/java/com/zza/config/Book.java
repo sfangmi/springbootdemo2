@@ -1,4 +1,4 @@
-package com.zza.conifg;
+package com.zza.config;
 
 public class Book {
 }

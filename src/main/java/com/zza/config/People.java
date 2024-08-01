@@ -1,2 +1,4 @@
-package com.zza.config;public class People {
+package com.zza.config;
+
+public class People {
 }
